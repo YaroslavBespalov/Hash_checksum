@@ -1,0 +1,5 @@
+/Users/yaroslav/github/BespalovTask1/build/CMakeFiles/rebuild_cache.dir
+/Users/yaroslav/github/BespalovTask1/build/CMakeFiles/edit_cache.dir
+/Users/yaroslav/github/BespalovTask1/build/CMakeFiles/hashlib_unittests.dir
+/Users/yaroslav/github/BespalovTask1/build/CMakeFiles/crc32int32.dir
+/Users/yaroslav/github/BespalovTask1/build/CMakeFiles/hashlib.dir

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yaroslav/github/BespalovTask1/src/hash.h
+cstdint
+-
+vector
+-
+
+/Users/yaroslav/github/BespalovTask1/src/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+cstdint
+-
+hash.h
+/Users/yaroslav/github/BespalovTask1/src/hash.h
+
