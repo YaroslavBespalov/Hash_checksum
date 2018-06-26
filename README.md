@@ -3,7 +3,7 @@ This project realizes utility that can calculate hash checksum by two algorithms
 Build instructions:
 ```
 # clone repo and download googletests
-git clone https://gitlab.com/Bespalovhw1/csc_blank_task.git
+git clone https://github.com/YaroslavBespalov/Hash_checksum.git
 cd csc_blank_task
 git submodule update --init --recursive
 
